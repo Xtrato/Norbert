@@ -12,6 +12,6 @@ for colour in imageColours:
     #If the colour is red (The call is in the image)
     if colour[1][0] > 140 and colour[1][1] < 120 and colour[1][2] < 120:
         #Prints a message
-        print 'The ball is in the picture'
+        print 'Ball in picture'
 
 print 'End Line Geoffrey Robot'
